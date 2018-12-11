@@ -57,13 +57,41 @@ nav > a{
     text-align: center;
    font-family: 'Times New Roman', Times, serif;
    font-weight: 200;
-   color: #dd4b39;
+   color:black;
 }
 .me > h3{
     text-align: center;
    font-family: Georgia, 'Times New Roman', Times, serif;
-   color: brown;
+   color: cornflowerblue
    
+}
+.me > p{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.me{
+    background-color: #dd4b39;
+}
+.list > h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+   color: #dd4b39;
+
+}
+
+.list > p{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.list > ol , li{
+text-align: center;
+list-style-position: inside
+}
+.list > li{
+    text-align: center;
+}
+.list > ul , li{
+    text-align: center
 }
 .icon-bar a:hover {
    
