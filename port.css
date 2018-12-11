@@ -7,14 +7,52 @@
 }
     
 .header{
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWRoL63GMGyfF4LtwvKra_6oDdT5rlbZu_FRyVMNrGpZ6RIbgx");
-    background-repeat: no-repeat;
-    display: block;
-    margin-left: auto;
-    margin-right:auto;
-    max-width: 100%;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8RNMFY-BO7zc79s1D2Wb_bChWaH5N6v6D6z3uVIfrqVA2k86VWw');
+    position: 30px 20px, 50% 50%;
+    padding-bottom: 50px;
+    background-repeat:no-repeat;
     background-size: cover;
-    height:200px;
+}
+nav{
+    float: right;
+    padding: 30px 30px 0 0;
+}
+nav > a{
+    display: inline-block;
+    margin-left: 30px;
+    color: rgba(0 , 0 , 0 , 7);
+    font-size: 14px;
+    font-weight: 700px;
+    text-transform: uppercase;
+}
+
+    .header > h1{
+        text-align: center;
+        font-size: 72px;
+        font-weight: 700;
+        color: white;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        margin-bottom: 20px;
+        clear: both;
+        padding: 100px;
+    }
+    span{
+        display: inline-block;
+        padding: 0.2em 0.5em;
+        border: white solid 10px;
+    }
+.kicker{
+    text-align: center;
+    font-weight: 700px;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    color:white;
+    line-height: 1;
+}
+ 
+
+
 
     
     
