@@ -119,6 +119,9 @@ top: 90%;
   }
 footer{
     display: block;
+    
+    font-weight: bold;
+    
 }  
   
   .facebook {
